@@ -1,0 +1,9 @@
+---
+name: QuenchSIM
+description: |-
+  **QuenchSIM** solves the time dependent heat transfer analysis of a component
+  taken from a furnace and quenched with air fans. You can import a CAD file of
+  the component into the analysis; heat transfer occurs through convection,
+  conduction and radiation.
+category: AltaSim Technologies
+url: /pun/sys/vncsim/%{app_token}/sessions
