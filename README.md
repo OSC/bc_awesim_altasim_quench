@@ -1,5 +1,8 @@
 # Batch Connect - AweSim AltaSim QuenchSim
 
+![GitHub Release](https://img.shields.io/github/release/osc/bc_awesim_altasim_quench.svg)
+![GitHub License](https://img.shields.io/github/license/osc/bc_awesim_altasim_quench.svg)
+
 A VNCSim app used for launching AltaSim's QuenchSim app within a COMSOL Server
 ([bc_comsol_server](https://github.com/OSC/bc_comsol_server)).
 
