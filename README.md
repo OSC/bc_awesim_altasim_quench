@@ -14,7 +14,7 @@ OnDemand node):
 
 - [COMSOL Server](https://www.comsol.com/comsol-server) 5.2a Update 3 or
   greater
-- Access to AltaSim's QuenchSim App
+- Access to AltaSim's QuenchSim app
 
 **Optional** software:
 
