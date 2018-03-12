@@ -1,7 +1,7 @@
 # Batch Connect - AweSim AltaSim QuenchSim
 
 ![GitHub Release](https://img.shields.io/github/release/osc/bc_awesim_altasim_quench.svg)
-![GitHub License](https://img.shields.io/github/license/osc/bc_awesim_altasim_quench.svg)
+[![GitHub License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 An interactive app designed for AweSim that launches a COMSOL Server
 with access to AltaSim's QuenchSim within a Quick batch job.
