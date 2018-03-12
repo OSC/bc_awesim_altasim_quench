@@ -3,10 +3,7 @@ name: QuenchSIM
 category: AltaSim Technologies
 role: batch_connect
 description: |
-  This app will launch [COMSOL Server] 5.2a Update 3 on a shared node with
-  access to the following [AltaSim] app:
-
-  **QuenchSIM** solves the time dependent heat transfer analysis of a component
+  Solves the time dependent heat transfer analysis of a component
   taken from a furnace and quenched with air fans. You can import a CAD file of
   the component into the analysis; heat transfer occurs through convection,
   conduction and radiation.
