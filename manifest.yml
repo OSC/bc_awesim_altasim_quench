@@ -7,6 +7,3 @@ description: |
   taken from a furnace and quenched with air fans. You can import a CAD file of
   the component into the analysis; heat transfer occurs through convection,
   conduction and radiation.
-
-  [COMSOL Server]: https://www.comsol.com/comsol-server
-  [AltaSim]: http://www.altasimtechnologies.com/
